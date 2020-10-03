@@ -2,7 +2,7 @@
 [![][appveyor img]][appveyor]
 [![][teamcity img]][teamcity]
 
-This repository is a support repository some tools that are used in checkstyle development and other
+This repository is a support repository not only for the beginners but also for the advanced one.There are some tools that are used in checkstyle development and other
 contributions that are valuable but should not be in
 [main checkstyle repo](https://github.com/checkstyle/checkstyle)
 
